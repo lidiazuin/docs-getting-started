@@ -4,8 +4,8 @@ name: "Verify docs PR"
 on:
   pull_request:
     branches:
-    - main
-    - dev
+    - "dev"
+    - "main"
 
 jobs:
 
