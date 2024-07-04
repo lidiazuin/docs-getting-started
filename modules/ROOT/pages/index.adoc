@@ -111,8 +111,14 @@ link:{docs-home}/visualize/[]
 [.icon]
 image:ROOT:highlights.svg[]
 
+<<<<<<< HEAD
 [.caption]
 GraphAcademy courses
+=======
+// Edit at: https://github.com/neo4j-graphacademy/courses/blob/main/asciidoc/courses/neo4j-fundamentals/promo.adoc
+include::https://raw.githubusercontent.com/neo4j-graphacademy/courses/main/asciidoc/courses/neo4j-fundamentals/promo.adoc[]
+
+>>>>>>> 66eb8ea (Add GA banner (#402))
 
 [.list]
 * link:{docs-home}/genai/tutorials/embeddings-vector-indexes/[Embedding & Vector Indexes Tutorial]
