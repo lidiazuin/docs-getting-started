@@ -107,6 +107,7 @@ link:{docs-home}/visualize/[]
 
 [.widget.highlights]
 <<<<<<< HEAD
+<<<<<<< HEAD
 == Tutorials & How-to guides
 
 [.icon]
@@ -130,10 +131,14 @@ include::https://raw.githubusercontent.com/neo4j-graphacademy/courses/main/ascii
 * link:{docs-home}/graph-data-science-client/current/tutorials/centrality-algorithms/[Apply centrality algorithms to your graph]
 =======
 == GA courses
+=======
+== GraphAcademy courses
+>>>>>>> 41e8a53 (update image after review and fix ga block (#426))
 
 [.icon]
-image:ROOT:ga-home.svg[]
+image:ga-home.svg[]
 
+--
 [.caption]
 GraphAcademy courses
 
@@ -144,4 +149,8 @@ GraphAcademy courses
 * link:https://graphacademy.neo4j.com/courses/llm-fundamentals/[Neo4j and LLM fundamentals]
 * link:https://graphacademy.neo4j.com/courses/modeling-fundamentals/[Graph data modeling fundamentals]
 * link:https://graphacademy.neo4j.com/courses/gds-product-introduction/[Introduction to Graph Data Science]
+<<<<<<< HEAD
 >>>>>>> 53796eb (Adding to main renewed pages from dev (#421))
+=======
+--
+>>>>>>> 41e8a53 (update image after review and fix ga block (#426))
