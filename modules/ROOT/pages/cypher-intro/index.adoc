@@ -272,7 +272,7 @@ You can ask questions on the link:https://community.neo4j.com/c/neo4j-graph-plat
 
 With Cypher structure and syntax covered in the sections above, you can dive into building your own recommendation engine to use graph data and Cypher to recommend movies, colleagues, cuisines, and more.
 
-xref:guide-build-a-recommendation-engine.adoc[Tutorial: Build a Recommendation Engine,role=more information] walks through using queries and filtering that takes advantage of the relationships in a graph in order to lend insight into habits and hidden connections and provide valuable recommendations.
+xref:tutorials/recommendation-engine.adoc[Tutorial: Build a Recommendation Engine,role=more information] walks through using queries and filtering that takes advantage of the relationships in a graph in order to lend insight into habits and hidden connections and provide valuable recommendations.
 
 [#cypher-resources]
 == xref:cypher-intro/resources.adoc[Cypher resources]
