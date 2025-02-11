@@ -12,6 +12,11 @@ There can be other types of values as the delimiter, but the most standard is th
 Many systems and processes today already convert their data into CSV format for file outputs to other systems, human-friendly reports, and other needs.
 It is a standard file format that humans and systems are already familiar with using and handling.
 
+[TIP]
+====
+Enroll to the GraphAcademy course link:https://graphacademy.neo4j.com/courses/importing-cypher/[Importing CSV data into Neo4j] for a hands-on course.
+====
+
 == Ways to import CSV files
 
 There are a few different approaches to get CSV data into Neo4j, each with varying criteria and functionality.
